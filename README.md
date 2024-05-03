@@ -20,11 +20,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Created a Virtual Machine in Microsoft Azure
-- Created and logged into remote desktop
-- Enabled IIS in Windows with CGI, Common http features, and ISS Management Console
-- Installed prerequisite software 
-- Installed osTicket and configured permissions
+- Create a Virtual Machine in Microsoft Azure
+- Create and log into remote desktop
+- Enable IIS in Windows with CGI, Common http features, and ISS Management Console
+- Install prerequisite software 
+- Install osTicket and configure permissions
 
 <h2>Installation Screenshots</h2>
 
